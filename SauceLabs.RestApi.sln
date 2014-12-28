@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SauceLabs.RestApi", "SauceLabs.RestApi\SauceLabs.RestApi.csproj", "{BC0DF756-D800-45A8-94C1-5E3A75214376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SauceLabs.RestApi.Test", "SauceLabs.RestApi.Test\SauceLabs.RestApi.Test.csproj", "{13EBF5DC-F14C-4823-B9E2-BFE7887C3B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0DF756-D800-45A8-94C1-5E3A75214376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0DF756-D800-45A8-94C1-5E3A75214376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0DF756-D800-45A8-94C1-5E3A75214376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0DF756-D800-45A8-94C1-5E3A75214376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EBF5DC-F14C-4823-B9E2-BFE7887C3B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EBF5DC-F14C-4823-B9E2-BFE7887C3B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EBF5DC-F14C-4823-B9E2-BFE7887C3B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EBF5DC-F14C-4823-B9E2-BFE7887C3B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
